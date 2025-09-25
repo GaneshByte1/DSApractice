@@ -1,3 +1,4 @@
+
 # LeetCode & DSA Solutions
 
 This repository contains my **DSA practice solutions** on LeetCode and other platforms.  
@@ -23,3 +24,6 @@ It demonstrates my problem-solving approach, coding style, and growth from basic
 ## Progress
 
 I update this repo regularly with new problems solved.
+=======
+# DSApractice
+
