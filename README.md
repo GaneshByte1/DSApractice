@@ -14,6 +14,7 @@ Here, I showcase my problem-solving skills, coding style, and growth journey fro
 ### 🔹 Basics
 
 - `To Lower Case`
+- `FizzBuzz`
 - Simple string manipulations & beginner-friendly exercises
 
 ### 🔹 Arrays
@@ -21,6 +22,8 @@ Here, I showcase my problem-solving skills, coding style, and growth journey fro
 - `Linear Search`
 - `Largest Number`
 - `Binary Search`
+- `Pairs Of Array`
+- `Reverse Of Array`
 
 _(More topics coming soon: Strings, Linked Lists, Recursion, Hashing, Math, etc.)_
 
@@ -30,11 +33,7 @@ _(More topics coming soon: Strings, Linked Lists, Recursion, Hashing, Math, etc.
 
 DSApractice/
 ├── Arrays/
-│ ├── LinearSearch.java
-│ ├── LargestNumber.java
-│ └── BinarySearch.java
 ├── basics/
-│ └── ToLowerCase.java
 ├── README.md
 
 Each folder contains individual problem solutions.
@@ -54,11 +53,11 @@ Each folder contains individual problem solutions.
 git clone https://github.com/GaneshByte1/DSApractice.git
 
 
+```
+
 🌟 Progress & Updates
 
 I update this repo regularly with:
-    New problems solved
-    Clean and well-commented code
-    Organized folder structure
-
-```
+New problems solved
+Clean and well-commented code
+Organized folder structure
