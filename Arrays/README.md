@@ -12,6 +12,7 @@ This repository contains Java programs for practicing arrays and basic algorithm
 | `ArrayInputOutput.java` | Handles array input from the user and prints output.      |
 | `ReverseArray.java`     | Reverses the elements of an array.                        |
 | `PairsArrays.java`      | Finds all possible pairs in an array.                     |
+| `Subarrays.java`        | Generates all possible subarrays of a given array.        |
 
 ### Searching Algorithms
 
@@ -37,6 +38,7 @@ All `.class` files are compiled versions of the corresponding `.java` files:
 - `LinearSearch.class`
 - `PairsArrays.class`
 - `ReverseArray.class`
+- `Subarrays.class`
 
 ## How to Run
 

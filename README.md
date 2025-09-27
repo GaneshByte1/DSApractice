@@ -24,6 +24,7 @@ Here, I showcase my problem-solving skills, coding style, and growth journey fro
 - `Binary Search`
 - `Pairs Of Array`
 - `Reverse Of Array`
+- `Subarrays`
 
 _(More topics coming soon: Strings, Linked Lists, Recursion, Hashing, Math, etc.)_
 
