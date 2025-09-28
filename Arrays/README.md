@@ -6,13 +6,16 @@ This repository contains Java programs for practicing arrays and basic algorithm
 
 ### Array Operations
 
-| File                    | Description                                               |
-| ----------------------- | --------------------------------------------------------- |
-| `Arraycreation.java`    | Demonstrates how to create and initialize arrays in Java. |
-| `ArrayInputOutput.java` | Handles array input from the user and prints output.      |
-| `ReverseArray.java`     | Reverses the elements of an array.                        |
-| `PairsArrays.java`      | Finds all possible pairs in an array.                     |
-| `Subarrays.java`        | Generates all possible subarrays of a given array.        |
+| File                     | Description                                                    |
+| ------------------------ | -------------------------------------------------------------- |
+| `Arraycreation.java`     | Demonstrates how to create and initialize arrays in Java.      |
+| `ArrayInputOutput.java`  | Handles array input from the user and prints output.           |
+| `ReverseArray.java`      | Reverses the elements of an array.                             |
+| `PairsArrays.java`       | Finds all possible pairs in an array.                          |
+| `Subarrays.java`         | Generates all possible subarrays of a given array.             |
+| `MaxSubarray1.java`      | Brute force approach to find the maximum subarray sum (O(n³)). |
+| `MaxSubarray2.java`      | Prefix Sum approach for maximum subarray sum (O(n²)).          |
+| `MaxSubarrayKadane.java` | Optimized Kadane’s Algorithm for maximum subarray sum (O(n)).  |
 
 ### Searching Algorithms
 

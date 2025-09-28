@@ -19,12 +19,15 @@ Here, I showcase my problem-solving skills, coding style, and growth journey fro
 
 ### 🔹 Arrays
 
-- `Linear Search`
-- `Largest Number`
-- `Binary Search`
-- `Pairs Of Array`
-- `Reverse Of Array`
-- `Subarrays`
+- `Linear Search` – Find an element in an array
+- `Binary Search` – Search efficiently in a sorted array
+- `Largest Number` – Find the largest number in an array
+- `Pairs Of Array` – Generate all possible pairs
+- `Reverse Of Array` – Reverse array elements
+- `Subarrays` – Generate all subarrays of an array
+- `Max Subarray 1` – Brute force approach (O(n³))
+- `Max Subarray 2` – Prefix sum approach (O(n²))
+- `Max Subarray Kadane` – Optimized approach (O(n))
 
 _(More topics coming soon: Strings, Linked Lists, Recursion, Hashing, Math, etc.)_
 
